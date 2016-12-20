@@ -76,7 +76,7 @@
         <a class="by" href="https://www.facebook.com/Daffnebutikotel/"><img src="img/facebook-ikon.png" width="23" height="23"/></a>
         <a class="t" href="https://twitter.com/DaffneButikOtel"><img src="img/twitter-ikon.png" width="23" height="23"/></a>
         <a class="t" href="https://www.instagram.com/daffnebutikotel/"><img src="img/instagram-ikon.png" width="23" height="23"/></a>
-        <p>Her hakkı saklıdır © Kemalpaşa mahallesi Tarla sokak no:44 / Çanakkale - daffnebutikotel@gmail.com</p>
+        <p>Her hakkı saklıdır © Cumhuriyet  mahallesi  Gül sokak no:44 / İstanbul - daffnebutikotel@gmail.com</p>
     </div>
     <div class="bottom"><div class="socials"></div></div>
 </footer>
